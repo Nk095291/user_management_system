@@ -1,2 +1,3 @@
 # user_management_system
- application where users can register, log in, and reset and change passwords on their own.
+## Overview
+This application provides a comprehensive user management system, enabling functionalities such as user registration, login, password reset, and password change. It's built using Django, a high-level Python web framework, ensuring robust and secure handling of user accounts. Through this project, we demonstrate the customization of Django's default user management templates and the integration of email functionality for password resets. Additionally, the application supports authentication via external services, offering users a seamless and flexible login experience.
