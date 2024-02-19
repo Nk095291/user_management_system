@@ -1,0 +1,10 @@
+<!-- users/templates/user/dashbaord.html (Other templates of your application )--> 
+
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+Hello, {{  user.username | default:'Guest' }} !
+
+{% endblock %}
